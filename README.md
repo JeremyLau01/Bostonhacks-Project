@@ -1,10 +1,10 @@
-# BostonHacks 2021
+# Chillwork
 
-## Members:
-- Andrew Chung
-- Jeremy Lau
-- Bryan Teoh
+## Description
 
-## Notes
+This is a to-do list application with a reward system and fun animations and
+calming background music
 
-To work correctly, `app.py` must be invoked from the `src` directory
+## Features
+- Task labels
+- Conversion of entered plain text to tasks
